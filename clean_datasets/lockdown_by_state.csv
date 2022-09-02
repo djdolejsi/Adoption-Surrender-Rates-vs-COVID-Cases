@@ -1,0 +1,425 @@
+date,State,Status of Reopening,Stay at Home Order,Buisness Closures
+2020-06-04,New York,na,Statewide,Some Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+2020-06-04,Michigan,na,Lifted,Some Non-Essential Businesses Permitted to Reopen
+2020-06-04,California,na,Statewide,Some Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+2020-06-04,Texas,na,Lifted,All Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+2020-06-05,Texas,na,Lifted,All Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+2020-06-05,California,na,Statewide,Some Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+2020-06-05,Michigan,na,Lifted,Some Non-Essential Businesses Permitted to Reopen
+2020-06-05,New York,na,Statewide,Some Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+2020-06-08,New York,na,Statewide,Some Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+2020-06-08,Michigan,na,Lifted,Some Non-Essential Businesses Permitted to Reopen
+2020-06-08,California,na,Statewide,Some Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+2020-06-08,Texas,na,Lifted,All Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+2020-06-12,Texas,na,Lifted,All Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+2020-06-12,California,na,Statewide,Some Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+2020-06-12,Michigan,na,Lifted,Some Non-Essential Businesses Permitted to Reopen
+2020-06-12,New York,na,Statewide,Some Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+2020-06-15,New York,na,Statewide,Some Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+2020-06-15,Michigan,na,Lifted,Some Non-Essential Businesses Permitted to Reopen
+2020-06-15,California,na,Statewide,Some Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+2020-06-15,Texas,na,Lifted,All Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+2020-06-17,Texas,na,Lifted,All Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+2020-06-17,California,na,Statewide,Some Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+2020-06-17,Michigan,na,Lifted,Some Non-Essential Businesses Permitted to Reopen
+2020-06-17,New York,na,Statewide,Some Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+2020-06-22,New York,na,Statewide,Some Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+2020-06-22,Michigan,na,Lifted,Some Non-Essential Businesses Permitted to Reopen
+2020-06-22,California,na,Statewide,Some Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+2020-06-22,Texas,na,Lifted,All Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+2020-06-24,Michigan,na,Lifted,Some Non-Essential Businesses Permitted to Reopen
+2020-06-24,New York,na,Statewide,Some Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+2020-06-24,California,na,Statewide,Some Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+2020-06-24,Texas,na,Lifted,All Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+2020-06-25,Texas,na,Lifted,All Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+2020-06-25,Michigan,na,Lifted,Some Non-Essential Businesses Permitted to Reopen
+2020-06-25,California,na,Statewide,Some Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+2020-06-25,New York,na,Statewide,Some Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+2020-06-26,California,na,Statewide,Some Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+2020-06-26,Texas,na,Lifted,All Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+2020-06-26,New York,na,Statewide,Some Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+2020-06-26,Michigan,na,Lifted,Some Non-Essential Businesses Permitted to Reopen
+2020-06-30,Texas,na,Lifted,All Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+2020-06-30,Michigan,na,Lifted,Some Non-Essential Businesses Permitted to Reopen
+2020-06-30,California,na,Statewide,Some Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+2020-06-30,New York,na,Statewide,Some Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+2020-07-01,California,New Restrictions Imposed,Statewide,Some Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+2020-07-01,Michigan,Paused,Lifted,Some Non-Essential Businesses Permitted to Reopen
+2020-07-01,New York,Proceeding with Reopening,Statewide,Some Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+2020-07-01,Texas,New Restrictions Imposed,Lifted,New Business Closures or Limits
+2020-07-07,New York,Proceeding with Reopening,Statewide,Some Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+2020-07-07,Michigan,Paused,Lifted,Some Non-Essential Businesses Permitted to Reopen
+2020-07-07,California,New Restrictions Imposed,Statewide,New Business Closures or Limits
+2020-07-07,Texas,New Restrictions Imposed,Lifted,New Business Closures or Limits
+2020-07-08,Texas,New Restrictions Imposed,Lifted,New Business Closures or Limits
+2020-07-08,California,New Restrictions Imposed,Statewide,New Business Closures or Limits
+2020-07-08,Michigan,Paused,Lifted,Some Non-Essential Businesses Permitted to Reopen
+2020-07-08,New York,Proceeding with Reopening,Statewide,Some Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+2020-07-10,Texas,New Restrictions Imposed,Lifted,New Business Closures or Limits
+2020-07-10,California,New Restrictions Imposed,Statewide,New Business Closures or Limits
+2020-07-10,Michigan,Paused,Lifted,Some Non-Essential Businesses Permitted to Reopen
+2020-07-10,New York,Proceeding with Reopening,Statewide,Some Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+2020-07-13,Texas,New Restrictions Imposed,Lifted,New Business Closures or Limits
+2020-07-13,New York,Proceeding with Reopening,Statewide,Some Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+2020-07-13,California,New Restrictions Imposed,Statewide,New Business Closures or Limits
+2020-07-13,Michigan,Paused,Lifted,Some Non-Essential Businesses Permitted to Reopen
+2020-07-15,Michigan,Paused,Lifted,Some Non-Essential Businesses Permitted to Reopen
+2020-07-15,California,New Restrictions Imposed,Statewide,New Business Closures or Limits
+2020-07-15,Texas,New Restrictions Imposed,Lifted,New Business Closures or Limits
+2020-07-15,New York,Proceeding with Reopening,Rolled Back to High Risk Groups,Some Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+2020-07-16,New York,Proceeding with Reopening,Rolled Back to High Risk Groups,Some Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+2020-07-16,Michigan,Paused,Lifted,Some Non-Essential Businesses Permitted to Reopen
+2020-07-16,California,New Restrictions Imposed,Statewide,New Business Closures or Limits
+2020-07-16,Texas,New Restrictions Imposed,Lifted,New Business Closures or Limits
+2020-07-17,California,New Restrictions Imposed,Statewide,New Business Closures or Limits
+2020-07-17,New York,Proceeding with Reopening,Rolled Back to High Risk Groups,Some Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+2020-07-17,Michigan,Paused,Lifted,Some Non-Essential Businesses Permitted to Reopen
+2020-07-17,Texas,New Restrictions Imposed,Lifted,New Business Closures or Limits
+2020-07-20,New York,Proceeding with Reopening,Rolled Back to High Risk Groups,Some Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+2020-07-20,California,New Restrictions Imposed,Statewide,New Business Closures or Limits
+2020-07-20,Michigan,Paused,Lifted,Some Non-Essential Businesses Permitted to Reopen
+2020-07-20,Texas,New Restrictions Imposed,Lifted,New Business Closures or Limits
+2020-07-21,New York,Proceeding with Reopening,Rolled Back to High Risk Groups,Some Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+2020-07-21,Texas,New Restrictions Imposed,Lifted,New Business Closures or Limits
+2020-07-21,California,New Restrictions Imposed,Statewide,New Business Closures or Limits
+2020-07-21,Michigan,Paused,Lifted,Some Non-Essential Businesses Permitted to Reopen
+2020-07-23,New York,Proceeding with Reopening,Rolled Back to High Risk Groups,Some Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+2020-07-23,Michigan,Paused,Lifted,Some Non-Essential Businesses Permitted to Reopen
+2020-07-23,California,New Restrictions Imposed,Statewide,New Business Closures or Limits
+2020-07-23,Texas,New Restrictions Imposed,Lifted,New Business Closures or Limits
+2020-07-27,California,New Restrictions Imposed,Statewide,New Business Closures or Limits
+2020-07-27,Michigan,Paused,Lifted,Some Non-Essential Businesses Permitted to Reopen
+2020-07-27,New York,Proceeding with Reopening,Rolled Back to High Risk Groups,Some Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+2020-07-27,Texas,New Restrictions Imposed,Lifted,New Business Closures or Limits
+2020-07-28,California,New Restrictions Imposed,Statewide,New Business Closures or Limits
+2020-07-28,New York,Proceeding with Reopening,Rolled Back to High Risk Groups,Some Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+2020-07-28,Michigan,Paused,Lifted,Some Non-Essential Businesses Permitted to Reopen
+2020-07-28,Texas,New Restrictions Imposed,Lifted,New Business Closures or Limits
+2020-07-30,Michigan,New Restrictions Imposed,Lifted,Some Non-Essential Businesses Permitted to Reopen
+2020-07-30,New York,Proceeding with Reopening,Rolled Back to High Risk Groups,Some Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+2020-07-30,California,New Restrictions Imposed,Statewide,New Business Closures or Limits
+2020-07-30,Texas,New Restrictions Imposed,Lifted,New Business Closures or Limits
+2020-08-03,Michigan,New Restrictions Imposed,Lifted,Some Non-Essential Businesses Permitted to Reopen
+2020-08-03,Texas,New Restrictions Imposed,Lifted,New Business Closures or Limits
+2020-08-03,California,New Restrictions Imposed,Statewide,New Business Closures or Limits
+2020-08-03,New York,Proceeding with Reopening,Rolled Back to High Risk Groups,Some Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+2020-08-05,Texas,New Restrictions Imposed,Lifted,New Business Closures or Limits
+2020-08-05,Michigan,New Restrictions Imposed,Lifted,Some Non-Essential Businesses Permitted to Reopen
+2020-08-05,New York,Proceeding with Reopening,Rolled Back to High Risk Groups,Some Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+2020-08-05,California,New Restrictions Imposed,Statewide,New Business Closures or Limits
+2020-08-11,California,New Restrictions Imposed,Statewide,New Business Closures or Limits
+2020-08-11,New York,Proceeding with Reopening,Rolled Back to High Risk Groups,Some Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+2020-08-11,Texas,New Restrictions Imposed,Lifted,New Business Closures or Limits
+2020-08-11,Michigan,New Restrictions Imposed,Lifted,Some Non-Essential Businesses Permitted to Reopen
+2020-08-31,New York,Proceeding with Reopening,Rolled Back to High Risk Groups,Some Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+2020-08-31,Michigan,New Restrictions Imposed,Lifted,Some Non-Essential Businesses Permitted to Reopen
+2020-08-31,California,New Restrictions Imposed,Statewide,New Business Closures or Limits
+2020-08-31,Texas,New Restrictions Imposed,Lifted,New Business Closures or Limits
+2020-09-02,Michigan,New Restrictions Imposed,Lifted,Some Non-Essential Businesses Permitted to Reopen
+2020-09-02,California,New Restrictions Imposed,Statewide,New Business Closures or Limits
+2020-09-02,Texas,New Restrictions Imposed,Lifted,New Business Closures or Limits
+2020-09-02,New York,Proceeding with Reopening,Rolled Back to High Risk Groups,Some Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+2020-09-08,California,New Restrictions Imposed,Statewide,New Business Closures or Limits
+2020-09-08,Texas,New Restrictions Imposed,Lifted,New Business Closures or Limits
+2020-09-08,New York,Proceeding with Reopening,Rolled Back to High Risk Groups,Some Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+2020-09-08,Michigan,New Restrictions Imposed,Lifted,Some Non-Essential Businesses Permitted to Reopen
+2020-09-14,New York,Proceeding with Reopening,Rolled Back to High Risk Groups,Some Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+2020-09-14,Michigan,New Restrictions Imposed,Lifted,Some Non-Essential Businesses Permitted to Reopen
+2020-09-14,California,Proceeding with Reopening,Statewide,New Business Closures or Limits
+2020-09-14,Texas,New Restrictions Imposed,Lifted,New Business Closures or Limits
+2020-09-22,Michigan,New Restrictions Imposed,Lifted,Some Non-Essential Businesses Permitted to Reopen
+2020-09-22,California,Proceeding with Reopening,Statewide,New Business Closures or Limits
+2020-09-22,Texas,New Restrictions Imposed,Lifted,New Business Closures or Limits
+2020-09-22,New York,Proceeding with Reopening,Rolled Back to High Risk Groups,Some Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+2020-09-24,Texas,New Restrictions Imposed,Lifted,New Business Closures or Limits
+2020-09-24,California,Proceeding with Reopening,Statewide,New Business Closures or Limits
+2020-09-24,Michigan,New Restrictions Imposed,Lifted,Some Non-Essential Businesses Permitted to Reopen
+2020-09-24,New York,Proceeding with Reopening,Rolled Back to High Risk Groups,Some Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+2020-10-01,New York,Proceeding with Reopening,Rolled Back to High Risk Groups,Some Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+2020-10-01,Texas,New Restrictions Imposed,Lifted,New Business Closures or Limits
+2020-10-01,California,Proceeding with Reopening,Statewide,New Business Closures or Limits
+2020-10-01,Michigan,New Restrictions Imposed,Lifted,Some Non-Essential Businesses Permitted to Reopen
+2020-10-05,California,Proceeding with Reopening,Statewide,New Business Closures or Limits
+2020-10-05,Texas,New Restrictions Imposed,Lifted,New Business Closures or Limits
+2020-10-05,Michigan,New Restrictions Imposed,Lifted,Some Non-Essential Businesses Permitted to Reopen
+2020-10-05,New York,New Restrictions Imposed,Rolled Back to High Risk Groups,Some Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+2020-10-22,California,Proceeding with Reopening,Statewide,New Business Closures or Limits
+2020-10-22,New York,New Restrictions Imposed,Rolled Back to High Risk Groups,Some Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+2020-10-22,Michigan,New Restrictions Imposed,Lifted,Some Non-Essential Businesses Permitted to Reopen
+2020-10-22,Texas,New Restrictions Imposed,Lifted,New Business Closures or Limits
+2020-10-23,California,Proceeding with Reopening,Statewide,New Business Closures or Limits
+2020-10-23,Michigan,New Restrictions Imposed,Lifted,Some Non-Essential Businesses Permitted to Reopen
+2020-10-23,New York,New Restrictions Imposed,Rolled Back to High Risk Groups,Some Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+2020-10-23,Texas,New Restrictions Imposed,Lifted,New Business Closures or Limits
+2020-10-27,California,Proceeding with Reopening,Statewide,New Business Closures or Limits
+2020-10-27,Texas,New Restrictions Imposed,Lifted,New Business Closures or Limits
+2020-10-27,Michigan,New Restrictions Imposed,Lifted,Some Non-Essential Businesses Permitted to Reopen
+2020-10-27,New York,New Restrictions Imposed,Rolled Back to High Risk Groups,Some Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+2020-11-02,New York,New Restrictions Imposed,Rolled Back to High Risk Groups,Some Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+2020-11-02,Michigan,New Restrictions Imposed,Lifted,Some Non-Essential Businesses Permitted to Reopen
+2020-11-02,California,Proceeding with Reopening,Statewide,New Business Closures or Limits
+2020-11-02,Texas,New Restrictions Imposed,Lifted,New Business Closures or Limits
+2020-11-06,New York,New Restrictions Imposed,Rolled Back to High Risk Groups,Some Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+2020-11-06,Michigan,New Restrictions Imposed,Lifted,Some Non-Essential Businesses Permitted to Reopen
+2020-11-06,Texas,New Restrictions Imposed,Lifted,New Business Closures or Limits
+2020-11-06,California,Proceeding with Reopening,Statewide,New Business Closures or Limits
+2020-11-11,Michigan,New Restrictions Imposed,Lifted,Some Non-Essential Businesses Permitted to Reopen
+2020-11-11,Texas,New Restrictions Imposed,Lifted,New Business Closures or Limits
+2020-11-11,California,Proceeding with Reopening,Statewide,New Business Closures or Limits
+2020-11-11,New York,New Restrictions Imposed,Rolled Back to High Risk Groups,Some Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+2020-11-13,New York,New Restrictions Imposed,Rolled Back to High Risk Groups,Some Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+2020-11-13,Michigan,New Restrictions Imposed,Lifted,Some Non-Essential Businesses Permitted to Reopen
+2020-11-13,California,Proceeding with Reopening,Statewide,New Business Closures or Limits
+2020-11-13,Texas,New Restrictions Imposed,Lifted,New Business Closures or Limits
+2020-11-16,Michigan,New Restrictions Imposed,Lifted,Some Non-Essential Businesses Permitted to Reopen
+2020-11-16,Texas,New Restrictions Imposed,Lifted,New Business Closures or Limits
+2020-11-16,California,Proceeding with Reopening,Statewide,New Business Closures or Limits
+2020-11-16,New York,New Restrictions Imposed,Rolled Back to High Risk Groups,Some Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+2020-11-20,California,Proceeding with Reopening,Statewide,New Business Closures or Limits
+2020-11-20,Michigan,New Restrictions Imposed,Lifted,New Business Closures or Limits
+2020-11-20,New York,New Restrictions Imposed,Rolled Back to High Risk Groups,Some Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+2020-11-20,Texas,New Restrictions Imposed,Lifted,New Business Closures or Limits
+2020-11-30,Texas,New Restrictions Imposed,Lifted,New Business Closures or Limits
+2020-11-30,New York,New Restrictions Imposed,Rolled Back to High Risk Groups,Some Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+2020-11-30,Michigan,New Restrictions Imposed,Lifted,New Business Closures or Limits
+2020-11-30,California,New Restrictions Imposed,Statewide,New Business Closures or Limits
+2020-12-01,Michigan,New Restrictions Imposed,Lifted,New Business Closures or Limits
+2020-12-01,Texas,New Restrictions Imposed,Lifted,New Business Closures or Limits
+2020-12-01,New York,New Restrictions Imposed,Rolled Back to High Risk Groups,Some Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+2020-12-01,California,New Restrictions Imposed,Counties of High Transmission (New),New Business Closures or Limits
+2020-12-09,California,New Restrictions Imposed,Regions of High Transmission,New Business Closures or Limits
+2020-12-09,Texas,New Restrictions Imposed,Lifted,New Business Closures or Limits
+2020-12-09,New York,New Restrictions Imposed,Rolled Back to High Risk Groups,Some Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+2020-12-09,Michigan,New Restrictions Imposed,Lifted,New Business Closures or Limits
+2020-12-11,Texas,New Restrictions Imposed,Lifted,New Business Closures or Limits
+2020-12-11,New York,New Restrictions Imposed,Rolled Back to High Risk Groups,Some Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+2020-12-11,Michigan,New Restrictions Imposed,Lifted,New Business Closures or Limits
+2020-12-11,California,New Restrictions Imposed,Regions of High Transmission,New Business Closures or Limits
+2020-12-14,California,New Restrictions Imposed,Regions of High Transmission,New Business Closures or Limits
+2020-12-14,New York,New Restrictions Imposed,Rolled Back to High Risk Groups,Some Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+2020-12-14,Michigan,New Restrictions Imposed,Lifted,New Business Closures or Limits
+2020-12-14,Texas,New Restrictions Imposed,Lifted,New Business Closures or Limits
+2020-12-17,Texas,New Restrictions Imposed,Lifted,New Business Closures or Limits
+2020-12-17,California,New Restrictions Imposed,Regions of High Transmission,New Business Closures or Limits
+2020-12-17,Michigan,New Restrictions Imposed,Lifted,New Business Closures or Limits
+2020-12-17,New York,New Restrictions Imposed,Rolled Back to High Risk Groups,Some Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+2020-12-18,New York,New Restrictions Imposed,Rolled Back to High Risk Groups,Some Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+2020-12-18,Michigan,New Restrictions Imposed,Lifted,New Business Closures or Limits
+2020-12-18,California,New Restrictions Imposed,Regions of High Transmission,New Business Closures or Limits
+2020-12-18,Texas,New Restrictions Imposed,Lifted,New Business Closures or Limits
+2020-12-20,Texas,New Restrictions Imposed,Lifted,New Business Closures or Limits
+2020-12-20,California,New Restrictions Imposed,Regions of High Transmission,New Business Closures or Limits
+2020-12-20,Michigan,New Restrictions Imposed,Lifted,New Business Closures or Limits
+2020-12-20,New York,New Restrictions Imposed,Rolled Back to High Risk Groups,Some Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+2021-01-04,Texas,New Restrictions Imposed,Lifted,New Business Closures or Limits
+2021-01-04,California,New Restrictions Imposed,Regions of High Transmission,New Business Closures or Limits
+2021-01-04,Michigan,New Restrictions Imposed,Lifted,New Business Closures or Limits
+2021-01-04,New York,New Restrictions Imposed,Rolled Back to High Risk Groups,Some Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+2021-01-08,Texas,New Restrictions Imposed,Lifted,New Business Closures or Limits
+2021-01-08,California,New Restrictions Imposed,Regions of High Transmission,New Business Closures or Limits
+2021-01-08,Michigan,New Restrictions Imposed,Lifted,New Business Closures or Limits
+2021-01-08,New York,New Restrictions Imposed,Rolled Back to High Risk Groups,Some Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+2021-01-11,Michigan,New Restrictions Imposed,Lifted,New Business Closures or Limits
+2021-01-11,New York,New Restrictions Imposed,Rolled Back to High Risk Groups,Some Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+2021-01-11,California,New Restrictions Imposed,Regions of High Transmission,New Business Closures or Limits
+2021-01-11,Texas,New Restrictions Imposed,Lifted,New Business Closures or Limits
+2021-01-12,California,New Restrictions Imposed,Regions of High Transmission,New Business Closures or Limits
+2021-01-12,Michigan,New Restrictions Imposed,Lifted,New Business Closures or Limits
+2021-01-12,New York,New Restrictions Imposed,Rolled Back to High Risk Groups,Some Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+2021-01-12,Texas,New Restrictions Imposed,Lifted,New Business Closures or Limits
+2021-01-14,Michigan,New Restrictions Imposed,Lifted,New Business Closures or Limits
+2021-01-14,California,New Restrictions Imposed,Regions of High Transmission,New Business Closures or Limits
+2021-01-14,New York,New Restrictions Imposed,Rolled Back to High Risk Groups,Some Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+2021-01-14,Texas,New Restrictions Imposed,Lifted,New Business Closures or Limits
+2021-01-15,Texas,New Restrictions Imposed,Lifted,New Business Closures or Limits
+2021-01-15,New York,New Restrictions Imposed,Rolled Back to High Risk Groups,Some Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+2021-01-15,Michigan,New Restrictions Imposed,Lifted,New Business Closures or Limits
+2021-01-15,California,New Restrictions Imposed,Regions of High Transmission,New Business Closures or Limits
+2021-01-19,Texas,New Restrictions Imposed,Lifted,New Business Closures or Limits
+2021-01-19,New York,New Restrictions Imposed,Rolled Back to High Risk Groups,Some Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+2021-01-19,Michigan,New Restrictions Imposed,Lifted,New Business Closures or Limits
+2021-01-19,California,New Restrictions Imposed,Regions of High Transmission,New Business Closures or Limits
+2021-01-21,Michigan,New Restrictions Imposed,Lifted,New Business Closures or Limits
+2021-01-21,New York,New Restrictions Imposed,Rolled Back to High Risk Groups,Some Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+2021-01-21,California,New Restrictions Imposed,Regions of High Transmission,New Business Closures or Limits
+2021-01-21,Texas,New Restrictions Imposed,Lifted,New Business Closures or Limits
+2021-01-22,Texas,New Restrictions Imposed,Lifted,New Business Closures or Limits
+2021-01-22,New York,New Restrictions Imposed,Rolled Back to High Risk Groups,Some Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+2021-01-22,California,New Restrictions Imposed,Regions of High Transmission,New Business Closures or Limits
+2021-01-22,Michigan,New Restrictions Imposed,Lifted,New Business Closures or Limits
+2021-01-25,New York,New Restrictions Imposed,Rolled Back to High Risk Groups,Some Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+2021-01-25,Texas,New Restrictions Imposed,Lifted,New Business Closures or Limits
+2021-01-25,California,New Restrictions Imposed,Regions of High Transmission,New Business Closures or Limits
+2021-01-25,Michigan,New Restrictions Imposed,Lifted,New Business Closures or Limits
+2021-01-26,Texas,New Restrictions Imposed,Lifted,New Business Closures or Limits
+2021-01-26,California,New Restrictions Imposed,During Curfew Hours,New Business Closures or Limits
+2021-01-26,Michigan,New Restrictions Imposed,Lifted,New Business Closures or Limits
+2021-01-26,New York,New Restrictions Imposed,Rolled Back to High Risk Groups,Some Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+2021-01-28,New York,New Restrictions Imposed,Rolled Back to High Risk Groups,Some Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+2021-01-28,Michigan,New Restrictions Imposed,Lifted,New Business Closures or Limits
+2021-01-28,California,New Restrictions Imposed,During Curfew Hours,New Business Closures or Limits
+2021-01-28,Texas,New Restrictions Imposed,Lifted,New Business Closures or Limits
+2021-01-29,Michigan,New Restrictions Imposed,Lifted,New Business Closures or Limits
+2021-01-29,Texas,New Restrictions Imposed,Lifted,New Business Closures or Limits
+2021-01-29,New York,New Restrictions Imposed,Rolled Back to High Risk Groups,Some Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+2021-01-29,California,New Restrictions Imposed,During Curfew Hours,New Business Closures or Limits
+2021-02-01,New York,New Restrictions Imposed,Rolled Back to High Risk Groups,Some Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+2021-02-01,Michigan,New Restrictions Imposed,Lifted,New Business Closures or Limits
+2021-02-01,California,New Restrictions Imposed,During Curfew Hours,New Business Closures or Limits
+2021-02-01,Texas,New Restrictions Imposed,Lifted,New Business Closures or Limits
+2021-02-03,Michigan,New Restrictions Imposed,Lifted,New Business Closures or Limits
+2021-02-03,California,New Restrictions Imposed,During Curfew Hours,New Business Closures or Limits
+2021-02-03,Texas,New Restrictions Imposed,Lifted,New Business Closures or Limits
+2021-02-03,New York,New Restrictions Imposed,Rolled Back to High Risk Groups,Some Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+2021-02-09,New York,New Restrictions Imposed,Rolled Back to High Risk Groups,Some Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+2021-02-09,Texas,New Restrictions Imposed,Lifted,New Business Closures or Limits
+2021-02-09,California,New Restrictions Imposed,During Curfew Hours,New Business Closures or Limits
+2021-02-09,Michigan,New Restrictions Imposed,Lifted,New Business Closures or Limits
+2021-02-11,California,New Restrictions Imposed,During Curfew Hours,New Business Closures or Limits
+2021-02-11,Michigan,New Restrictions Imposed,Lifted,New Business Closures or Limits
+2021-02-11,New York,New Restrictions Imposed,Rolled Back to High Risk Groups,Some Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+2021-02-11,Texas,New Restrictions Imposed,Lifted,New Business Closures or Limits
+2021-02-12,Texas,New Restrictions Imposed,Lifted,New Business Closures or Limits
+2021-02-12,California,New Restrictions Imposed,During Curfew Hours,New Business Closures or Limits
+2021-02-12,New York,New Restrictions Imposed,Rolled Back to High Risk Groups,Some Non-Essential Businesses Permitted to Reopen with Reduced Capacity
+2021-02-12,Michigan,New Restrictions Imposed,Lifted,New Business Closures or Limits
+2021-02-16,California,Easing Restrictions,Lifted,Some Non-Essential Businesses Open with Limits
+2021-02-16,New York,Easing Restrictions,Lifted,All Non-Essential Businesses Open with Limits
+2021-02-16,Michigan,Easing Restrictions,Lifted,All Non-Essential Businesses Open with Limits
+2021-02-16,Texas,Easing Restrictions,Lifted,All Non-Essential Businesses Open with Limits
+2021-02-22,New York,Easing Restrictions,Lifted,All Non-Essential Businesses Open with Limits
+2021-02-22,Michigan,Easing Restrictions,Lifted,All Non-Essential Businesses Open with Limits
+2021-02-22,California,Easing Restrictions,Lifted,Some Non-Essential Businesses Open with Limits
+2021-02-22,Texas,Easing Restrictions,Lifted,All Non-Essential Businesses Open with Limits
+2021-03-01,Texas,Reopened,Lifted,All Non-Essential Businesses Open
+2021-03-01,California,Easing Restrictions,Lifted,Some Non-Essential Businesses Open with Limits
+2021-03-01,Michigan,Easing Restrictions,Lifted,All Non-Essential Businesses Open with Limits
+2021-03-01,New York,Easing Restrictions,Lifted,All Non-Essential Businesses Open with Limits
+2021-03-03,Michigan,Easing Restrictions,Lifted,All Non-Essential Businesses Open with Limits
+2021-03-03,California,Easing Restrictions,Lifted,Some Non-Essential Businesses Open with Limits
+2021-03-03,Texas,Reopened,Lifted,All Non-Essential Businesses Open
+2021-03-03,New York,Easing Restrictions,Lifted,All Non-Essential Businesses Open with Limits
+2021-03-08,Texas,Reopened,Lifted,All Non-Essential Businesses Open
+2021-03-08,California,Easing Restrictions,Lifted,Some Non-Essential Businesses Open with Limits
+2021-03-08,Michigan,Easing Restrictions,Lifted,All Non-Essential Businesses Open with Limits
+2021-03-08,New York,Easing Restrictions,Lifted,All Non-Essential Businesses Open with Limits
+2021-03-15,New York,Easing Restrictions,Lifted,All Non-Essential Businesses Open with Limits
+2021-03-15,Texas,Reopened,Lifted,All Non-Essential Businesses Open
+2021-03-15,Michigan,Easing Restrictions,Lifted,All Non-Essential Businesses Open with Limits
+2021-03-15,California,Easing Restrictions,Lifted,Some Non-Essential Businesses Open with Limits
+2021-03-22,New York,Easing Restrictions,Lifted,All Non-Essential Businesses Open with Limits
+2021-03-22,Michigan,Easing Restrictions,Lifted,All Non-Essential Businesses Open with Limits
+2021-03-22,California,Easing Restrictions,Lifted,Some Non-Essential Businesses Open with Limits
+2021-03-22,Texas,Reopened,Lifted,All Non-Essential Businesses Open
+2021-03-29,New York,Easing Restrictions,Lifted,All Non-Essential Businesses Open with Limits
+2021-03-29,Texas,Reopened,Lifted,All Non-Essential Businesses Open
+2021-03-29,Michigan,Easing Restrictions,Lifted,All Non-Essential Businesses Open with Limits
+2021-03-29,California,Easing Restrictions,Lifted,Some Non-Essential Businesses Open with Limits
+2021-04-05,California,Easing Restrictions,Lifted,Some Non-Essential Businesses Open with Limits
+2021-04-05,Michigan,Easing Restrictions,Lifted,All Non-Essential Businesses Open with Limits
+2021-04-05,New York,Easing Restrictions,Lifted,All Non-Essential Businesses Open with Limits
+2021-04-05,Texas,Reopened,Lifted,All Non-Essential Businesses Open
+2021-04-12,New York,Easing Restrictions,Lifted,All Non-Essential Businesses Open with Limits
+2021-04-12,Michigan,Easing Restrictions,Lifted,All Non-Essential Businesses Open with Limits
+2021-04-12,California,Easing Restrictions,Lifted,All Non-Essential Businesses Open with Limits
+2021-04-12,Texas,Reopened,Lifted,All Non-Essential Businesses Open
+2021-04-19,California,Easing Restrictions,Lifted,All Non-Essential Businesses Open with Limits
+2021-04-19,Michigan,Easing Restrictions,Lifted,All Non-Essential Businesses Open with Limits
+2021-04-19,Texas,Reopened,Lifted,All Non-Essential Businesses Open
+2021-04-19,New York,Easing Restrictions,Lifted,All Non-Essential Businesses Open with Limits
+2021-04-26,Texas,Reopened,Lifted,All Non-Essential Businesses Open
+2021-04-26,California,Easing Restrictions,Lifted,All Non-Essential Businesses Open with Limits
+2021-04-26,Michigan,Easing Restrictions,Lifted,All Non-Essential Businesses Open with Limits
+2021-04-26,New York,Easing Restrictions,Lifted,All Non-Essential Businesses Open with Limits
+2021-05-03,Michigan,Easing Restrictions,Lifted,All Non-Essential Businesses Open with Limits
+2021-05-03,New York,Easing Restrictions,Lifted,All Non-Essential Businesses Open with Limits
+2021-05-03,Texas,Reopened,Lifted,All Non-Essential Businesses Open
+2021-05-03,California,Easing Restrictions,Lifted,All Non-Essential Businesses Open with Limits
+2021-05-10,Michigan,Easing Restrictions,Lifted,All Non-Essential Businesses Open with Limits
+2021-05-10,California,Easing Restrictions,Lifted,All Non-Essential Businesses Open with Limits
+2021-05-10,Texas,Reopened,Lifted,All Non-Essential Businesses Open
+2021-05-10,New York,Easing Restrictions,Lifted,All Non-Essential Businesses Open with Limits
+2021-05-17,California,Easing Restrictions,Lifted,All Non-Essential Businesses Open with Limits
+2021-05-17,Michigan,Easing Restrictions,Lifted,All Non-Essential Businesses Open with Limits
+2021-05-17,Texas,Reopened,Lifted,All Non-Essential Businesses Open
+2021-05-17,New York,Easing Restrictions,Lifted,All Non-Essential Businesses Open with Limits
+2021-05-24,California,Easing Restrictions,Lifted,All Non-Essential Businesses Open with Limits
+2021-05-24,New York,Easing Restrictions,Lifted,All Non-Essential Businesses Open
+2021-05-24,Texas,Reopened,Lifted,All Non-Essential Businesses Open
+2021-05-24,Michigan,Easing Restrictions,Lifted,All Non-Essential Businesses Open with Limits
+2021-06-01,Michigan,Easing Restrictions,Lifted,All Non-Essential Businesses Open with Limits
+2021-06-01,California,Easing Restrictions,Lifted,All Non-Essential Businesses Open with Limits
+2021-06-01,Texas,Reopened,Lifted,All Non-Essential Businesses Open
+2021-06-01,New York,Easing Restrictions,Lifted,All Non-Essential Businesses Open
+2021-06-07,California,Easing Restrictions,Lifted,All Non-Essential Businesses Open with Limits
+2021-06-07,Michigan,Easing Restrictions,Lifted,All Non-Essential Businesses Open with Limits
+2021-06-07,New York,Easing Restrictions,Lifted,All Non-Essential Businesses Open
+2021-06-07,Texas,Reopened,Lifted,All Non-Essential Businesses Open
+2021-06-14,New York,Reopened,Lifted,All Non-Essential Businesses Open
+2021-06-14,Michigan,Easing Restrictions,Lifted,All Non-Essential Businesses Open with Limits
+2021-06-14,California,Reopened,Lifted,All Non-Essential Businesses Open
+2021-06-14,Texas,Reopened,Lifted,All Non-Essential Businesses Open
+2021-06-21,Michigan,Reopened,Lifted,All Non-Essential Businesses Open
+2021-06-21,New York,Reopened,Lifted,All Non-Essential Businesses Open
+2021-06-21,Texas,Reopened,Lifted,All Non-Essential Businesses Open
+2021-06-21,California,Reopened,Lifted,All Non-Essential Businesses Open
+2021-06-28,California,Reopened,Lifted,All Non-Essential Businesses Open
+2021-06-28,New York,Reopened,Lifted,All Non-Essential Businesses Open
+2021-06-28,Michigan,Reopened,Lifted,All Non-Essential Businesses Open
+2021-06-28,Texas,Reopened,Lifted,All Non-Essential Businesses Open
+2021-07-02,California,Reopened,Lifted,All Non-Essential Businesses Open
+2021-07-02,Texas,Reopened,Lifted,All Non-Essential Businesses Open
+2021-07-02,Michigan,Reopened,Lifted,All Non-Essential Businesses Open
+2021-07-02,New York,Reopened,Lifted,All Non-Essential Businesses Open
+2021-07-30,New York,Reopened,Lifted,All Non-Essential Businesses Open
+2021-07-30,Michigan,Reopened,Lifted,All Non-Essential Businesses Open
+2021-07-30,California,Reopened,Lifted,All Non-Essential Businesses Open
+2021-07-30,Texas,Reopened,Lifted,All Non-Essential Businesses Open
+2021-08-04,California,Reopened,Lifted,All Non-Essential Businesses Open
+2021-08-04,Texas,Reopened,Lifted,All Non-Essential Businesses Open
+2021-08-04,New York,Reopened,Lifted,All Non-Essential Businesses Open
+2021-08-04,Michigan,Reopened,Lifted,All Non-Essential Businesses Open
+2021-08-16,Michigan,Reopened,na,na
+2021-08-16,New York,Reopened,na,na
+2021-08-16,Texas,Reopened,na,na
+2021-08-16,California,Reopened,na,na
+2021-08-27,California,Reopened,na,na
+2021-08-27,Texas,Reopened,na,na
+2021-08-27,New York,Reopened,na,na
+2021-08-27,Michigan,Reopened,na,na
+2021-09-08,Texas,Reopened,na,na
+2021-09-08,Michigan,Reopened,na,na
+2021-09-08,California,Reopened,na,na
+2021-09-08,New York,Reopened,na,na
+2021-09-13,New York,Reopened,na,na
+2021-09-13,Texas,Reopened,na,na
+2021-09-13,California,Reopened,na,na
+2021-09-13,Michigan,Reopened,na,na
+2021-09-21,California,Reopened,na,na
+2021-09-21,Michigan,Reopened,na,na
+2021-09-21,Texas,Reopened,na,na
+2021-09-21,New York,Reopened,na,na
+2021-10-05,Texas,Reopened,na,na
+2021-10-05,California,Reopened,na,na
+2021-10-05,Michigan,Reopened,na,na
+2021-10-05,New York,Reopened,na,na
+2021-10-12,Michigan,Reopened,na,na
+2021-10-12,California,Reopened,na,na
+2021-10-12,Texas,Reopened,na,na
+2021-10-12,New York,Reopened,na,na
+2021-10-19,California,Reopened,na,na
+2021-10-19,New York,Reopened,na,na
+2021-10-19,Michigan,Reopened,na,na
+2021-10-19,Texas,Reopened,na,na
+2021-11-16,California,Reopened,na,na
+2021-11-16,Michigan,Reopened,na,na
+2021-11-16,New York,Reopened,na,na
+2021-11-16,Texas,Reopened,na,na
+2021-11-2,Texas,Reopened,na,na
+2021-11-2,California,Reopened,na,na
+2021-11-2,Michigan,Reopened,na,na
+2021-11-2,New York,Reopened,na,na
+2021-11-9,New York,Reopened,na,na
+2021-11-9,Michigan,Reopened,na,na
+2021-11-9,California,Reopened,na,na
+2021-11-9,Texas,Reopened,na,na
