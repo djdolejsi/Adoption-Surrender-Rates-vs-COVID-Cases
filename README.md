@@ -28,7 +28,7 @@ Looking at the adoption/surrender data, while COVID cases are on a downward traj
 
 ![image](https://user-images.githubusercontent.com/105513598/188914502-75bb4df0-1b05-4021-9910-62ec497a0009.png)
 
-Lastly, we looked to see if there was any correlation between COVID cases and dog/cat adoption and surrender rates. Based on our findings, there is a slight negative correlation between the two since both of our lines have a negative slope.
+Lastly, we looked to see if there was any correlation between COVID cases and dog/cat adoption and surrender rates. Based on our findings, the p-value is higher than 0.05, so there is not any statistical significance.
 
 ![image](https://user-images.githubusercontent.com/105513598/188917109-63a6de62-34e1-4f61-a3ee-37401b300371.png)
 
