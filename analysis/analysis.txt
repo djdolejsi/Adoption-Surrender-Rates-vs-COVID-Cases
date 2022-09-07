@@ -1,0 +1,18 @@
+Based on what we heard in the media during COVID about pet adoptions/surrender we made the following hypothesizes,
+
+Null Hypothesis - COVID cases did not affect adoption/surrender rates for dogs and cats
+
+Alternative Hypothesis - COVID cases did affect adoption/surrender rates for dogs and cats.
+
+More specifically we believe:
+
+1. Dog/Cat adoption rates increased when COVID cases increased due to people being at home more often.
+
+2. Dog/Cat surrender rates increased as COVID cases decreased due to places opening up and people returning to the office.
+
+When we looked at the data we noticed that both of our hypotheses were not accurate. As COVID cases increased, adoption rates plummeted compared to what the rates were in 2019. Even though people were home more often they did not adopt, and that is because many people got laid off during the pandemic, hence they did not have the money to be able to afford an animal. Also, there were rising food costs due to logistical logjams with trying to get food imported, and many factories and plants had to shut down due to massive COVID outbreaks leading to not having as much supply as we normally do.  
+
+However, we noticed that surrender rates also decreased when COVID cases increased which goes against our thoughts previously. If costs were going up then wouldn't people most likely surrender their dogs during COVID? 
+
+When you look at the Pearson r and p-value. You can see that there is a slight negative correlation, but the p-value is a lot higher than 0.05 for everything hence making COVID cases statistically insignificant to adoption/surrender rates.
+We cannot reject the null hypothesis above, and we can say that most likely the amount of COVID cases has nothing to do with adoption/surrender rates.
